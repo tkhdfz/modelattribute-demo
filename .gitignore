@@ -1,0 +1,34 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.settings
+.springBeans
+
+# IDEA
+.idea
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Maven
+target
+log
+!maven-wrapper.jar
+
+# Node
+node_modules
+logs
+*.log
+npm-debug.log*
+
+# Elasticsearch
+data
+
